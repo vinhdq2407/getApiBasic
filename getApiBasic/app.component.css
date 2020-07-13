@@ -1,0 +1,9 @@
+.xxx{
+    height: 200px;
+    background-color:gray;
+    font-size:50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    
+}
